@@ -1,1 +1,2 @@
-I am learning to use Git, a strong tool for coder.
+I am learning to use Git, a strong tool for coder. Meanwhile, Git is free for use.
+Git
